@@ -12,7 +12,7 @@ public class Note {
   private List<String> photoList;
   private int likeCount;
   @Nullable
-  List<Long> labelIds;
-  @Nullable
   private String place;
+
+  //ToDo # @
 }
