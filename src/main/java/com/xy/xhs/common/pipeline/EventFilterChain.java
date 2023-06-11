@@ -3,9 +3,6 @@ package com.xy.xhs.common.pipeline;
 
 import com.xy.xhs.common.pipeline.context.EventContext;
 
-/**
- * @author gim
- */
 public interface EventFilterChain<T extends EventContext> {
 
 
