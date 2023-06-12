@@ -2,7 +2,6 @@ package com.xy.xhs.note;
 
 import java.util.List;
 import lombok.Data;
-import org.springframework.lang.Nullable;
 
 @Data
 public class Note {
@@ -11,8 +10,5 @@ public class Note {
   private String content;
   private List<String> photoList;
   private int likeCount;
-  @Nullable
   private String place;
-
-  //ToDo # @
 }
