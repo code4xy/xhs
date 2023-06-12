@@ -1,4 +1,4 @@
-package com.xy.xhs.note.label;
+package com.xy.xhs.label;
 
 import lombok.Data;
 
